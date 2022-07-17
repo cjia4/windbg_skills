@@ -2,7 +2,8 @@
 ## memory access in debugger
 https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/accessing-memory-by-physical-address.md
 https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/accessing-memory-by-virtual-address.md
-
+## address convertion
+using the !vtop extension, and by using the !pte extension
 https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/converting-virtual-addresses-to-physical-addresses.md
 
 # mem window
